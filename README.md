@@ -1,2 +1,2 @@
-# Co-RAL-Dataset
-chip radar - Leg dataset for Co-RAL. 
+# Co-RaL-Dataset
+chip radar - Leg dataset for Co-RaL. 
