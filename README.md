@@ -11,8 +11,14 @@ IEEE (TBD)
 
 [Youtube Video](https://youtu.be/kHKn85_KKgk)
 
-Welcome to Co-RaL-Dataset! This repository includes the experimental dataset that is acquired for evaluation of our radar-leg odometry algorithm, Co-RaL, which has been accepted by IEEE IROS 2024. 
+Welcome to Co-RaL-Dataset!
+This repository includes the experimental dataset acquired to evaluate our radar-leg odometry algorithm, Co-RaL, which has been accepted by IEEE IROS 2024. 
 Our dataset includes sensor data of chip radar, imu, velodyne, and kinematic data from Boston Dynamics SPOT (Joint encoders and contact sensors). 
+Each sequence is acquired with different environments to evaluate the algorithm performance generally. 
+The dataset is provided with ROS Bag file format. 
+
+## Download Link
+[Google Drive](https://drive.google.com/drive/folders/1Sa3D52G-bcQO7JdfdrSAYSNStKwa9spB?usp=sharing)
 
 ## Sensor Setup
 
