@@ -48,6 +48,6 @@ Building|Hybrid|✔|✔|✗|252.86|8.26|291.89|0.866
 This dataset is provided for academic purposes. If you encounter technical problems, please contact **<Sangwoo Jung: dan0130@snu.ac.kr>**.
 
 ## BibTex
-'''
+
 TBD
-'''
+
