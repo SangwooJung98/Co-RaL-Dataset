@@ -39,12 +39,12 @@ Time | - | ROS time | - | /clock
 
 Sequence|Environment|Stair|Slope|Narrow Path|Path Length (m)|Elevation Change (m)|Duration (s)|Avg. vel. (m/s)
 :--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
-Stair|Outdoor|✓|✓|✗|253.24|15.12|304.40|0.832
-Under|Indoor|✗|✓|✗|227.02|3.23|258.50|0.878
-Narrow|Outdoor|✗|✗|✓|134.86|-|151.39|0.891
-Trail|Outdoor|✗|✓|✗|230.10|11.37|253.36|0.908
-Garage|Hybrid|✗|✓|✗|138.52|-|161.68|0.857
-Building|Hybrid|✓|✓|✗|252.86|8.26|291.89|0.866
+Stair|Outdoor|✔|✔|✗|253.24|15.12|304.40|0.832
+Under|Indoor|✗|✔|✗|227.02|3.23|258.50|0.878
+Narrow|Outdoor|✗|✗|✔|134.86|-|151.39|0.891
+Trail|Outdoor|✗|✔|✗|230.10|11.37|253.36|0.908
+Garage|Hybrid|✗|✔|✗|138.52|-|161.68|0.857
+Building|Hybrid|✔|✔|✗|252.86|8.26|291.89|0.866
 
 ## Contact
 This dataset is provided for academic purposes. If you encounter some technical problems, please open an issue or contact <Sangwoo Jung: dan0130@snu.ac.kr>.
