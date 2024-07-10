@@ -1,21 +1,24 @@
 # Co-RaL-Dataset
 ## Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact
 
-### Authors:
+### Authors
 **[Sangwoo Jung](https://sangwoojung98.github.io)**, **[Wooseong Yang](https://rpm.snu.ac.kr)** and **[Ayoung Kim](https://ayoungk.github.io)***. 
 
-## Paper and Video Link
-**[[arXiv]](https://arxiv.org/abs/2407.05820) [[BibTex]](#bibtex)**
+### Paper and Video
 
-[<img src="https://github.com/SangwooJung98/Co-RaL-Dataset/assets/48044261/6b2f4c95-4b94-4378-9595-2959aec399d8" width="80%">](https://youtu.be/kHKn85_KKgk)
+*Welcome to Co-RaL-Dataset!*
 
-Welcome to Co-RaL-Dataset!
 This repository includes the **experimental dataset** acquired to evaluate our radar-leg odometry algorithm, **Co-RaL**, which is accepted to IEEE IROS 2024. 
 Our dataset includes sensor data of **chip radar, imu, velodyne, and kinematic data from Boston Dynamics SPOT** (Joint encoders and contact sensors). 
 Each sequence is acquired with different environments to evaluate the algorithm performance generally. 
 The dataset is provided with ROS Bag file format. 
 
-## Download Link
+**[[arXiv]](https://arxiv.org/abs/2407.05820) [[BibTex]](#bibtex)**
+
+[<img src="https://github.com/SangwooJung98/Co-RaL-Dataset/assets/48044261/6b2f4c95-4b94-4378-9595-2959aec399d8" width="80%">](https://youtu.be/kHKn85_KKgk)
+
+
+### Download
 **[Google Drive](https://drive.google.com/drive/folders/1Sa3D52G-bcQO7JdfdrSAYSNStKwa9spB?usp=sharing)**
 
 ## Sensor Setup
