@@ -2,28 +2,26 @@
 ## Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact
 
 ### Authors:
-[Sangwoo Jung](https://sangwoojung98.github.io), [Wooseong Yang](https://rpm.snu.ac.kr) and [Ayoung Kim](https://ayoungk.github.io)*. 
+**[Sangwoo Jung](https://sangwoojung98.github.io)**, **[Wooseong Yang](https://rpm.snu.ac.kr)** and **[Ayoung Kim](https://ayoungk.github.io)***. 
 
 ## Paper and Video Link
-IEEE (TBD)
+**[[arXiv]](https://arxiv.org/abs/2407.05820) [[BibTex]](#bibtex)**
 
-[Arxiv](https://arxiv.org/abs/2407.05820)
-
-[Youtube Video](https://youtu.be/kHKn85_KKgk)
+[<img src="https://github.com/SangwooJung98/Co-RaL-Dataset/assets/48044261/6b2f4c95-4b94-4378-9595-2959aec399d8" width="80%">](https://youtu.be/kHKn85_KKgk)
 
 Welcome to Co-RaL-Dataset!
-This repository includes the experimental dataset acquired to evaluate our radar-leg odometry algorithm, Co-RaL, which has been accepted by IEEE IROS 2024. 
-Our dataset includes sensor data of chip radar, imu, velodyne, and kinematic data from Boston Dynamics SPOT (Joint encoders and contact sensors). 
+This repository includes the **experimental dataset** acquired to evaluate our radar-leg odometry algorithm, **Co-RaL**, which is accepted to IEEE IROS 2024. 
+Our dataset includes sensor data of **chip radar, imu, velodyne, and kinematic data from Boston Dynamics SPOT** (Joint encoders and contact sensors). 
 Each sequence is acquired with different environments to evaluate the algorithm performance generally. 
 The dataset is provided with ROS Bag file format. 
 
 ## Download Link
-[Google Drive](https://drive.google.com/drive/folders/1Sa3D52G-bcQO7JdfdrSAYSNStKwa9spB?usp=sharing)
+**[Google Drive](https://drive.google.com/drive/folders/1Sa3D52G-bcQO7JdfdrSAYSNStKwa9spB?usp=sharing)**
 
 ## Sensor Setup
 
 <div align="left">
-  <img src="https://github.com/SangwooJung98/Co-RaL-Dataset/assets/48044261/96eb9d8c-b5dd-4930-9dae-d5b6a2651324" alt="photo" width="60%">
+  <img src="https://github.com/SangwooJung98/Co-RaL-Dataset/assets/48044261/96eb9d8c-b5dd-4930-9dae-d5b6a2651324" alt="photo" width="80%">
 </div>
 
 Sensor|Model|Data Type|Freq|ROS Topic
@@ -47,7 +45,9 @@ Garage|Hybrid|✗|✗|✔|138.52|-|161.68|0.857
 Building|Hybrid|✔|✔|✗|252.86|8.26|291.89|0.866
 
 ## Contact
-This dataset is provided for academic purposes. If you encounter some technical problems, please open an issue or contact <Sangwoo Jung: dan0130@snu.ac.kr>.
+This dataset is provided for academic purposes. If you encounter technical problems, please contact **<Sangwoo Jung: dan0130@snu.ac.kr>**.
 
-## Citation
+## BibTex
+'''
 TBD
+'''
