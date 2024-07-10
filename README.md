@@ -51,6 +51,14 @@ Building|Hybrid|✔|✔|✗|252.86|8.26|291.89|0.866
 This dataset is provided for academic purposes. If you encounter technical problems, please contact **<Sangwoo Jung: dan0130@snu.ac.kr>**.
 
 ## BibTex
-
-TBD
-
+```
+@misc{jung2024coralcomplementaryradarlegodometry,
+      title={Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact}, 
+      author={Sangwoo Jung and Wooseong Yang and Ayoung Kim},
+      year={2024},
+      eprint={2407.05820},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2407.05820}, 
+}
+```
