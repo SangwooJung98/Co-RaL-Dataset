@@ -36,6 +36,9 @@ Joint Encoder | Spot Joint Sensor | 12 float values (List) | 180Hz | /joint_stat
 Contact Sensor | Spot Contact Sensor | 4 boolean values (List) | 180Hz | /spot/status/feet
 Time | - | ROS time | - | /clock
 
+## Sensor Calibration
+TBA
+
 ## Dataset List
 
 Sequence|Environment|Stair|Slope|Narrow Path|Path Length (m)|Elevation Change (m)|Duration (s)|Avg. vel. (m/s)
