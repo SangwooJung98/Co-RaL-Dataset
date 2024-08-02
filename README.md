@@ -53,6 +53,12 @@ Building|Hybrid|✔|✔|✗|252.86|8.26|291.89|0.866
 ## Contact
 This dataset is provided for academic purposes. If you encounter technical problems, please contact **<Sangwoo Jung: dan0130@snu.ac.kr>**.
 
+## Copyright
+All datasets on this page are copyrighted by SNU RPM Labs and published under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License. You must attribute the work in the manner specified by the author. You may not use the work for commercial purposes, and you may only distribute the resulting work under the same license if you alter, transform, or create the work.
+
+## Acknowledgement
+This work was supported by the MOTIE (1415187329) and MSIT (No.2022-0-00480).
+
 ## BibTex
 ```
 @misc{jung2024coralcomplementaryradarlegodometry,
