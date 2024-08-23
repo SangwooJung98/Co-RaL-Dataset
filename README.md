@@ -2,7 +2,7 @@
 ## Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact
 
 ### Authors
-**[Sangwoo Jung](https://sangwoojung98.github.io)**, **[Wooseong Yang](https://rpm.snu.ac.kr)** and **[Ayoung Kim](https://ayoungk.github.io)***. 
+**[Sangwoo Jung](https://sangwoojung98.github.io)**, **[Wooseong Yang](https://rpm.snu.ac.kr)** and **[Ayoung Kim](https://ayoungk.github.io)**<sup>*</sup>. 
 
 ### Paper and Video
 
