@@ -1,4 +1,4 @@
-# Mount CAD Models
+# CAD Models for the Sensor Mount
 We provide the CAD files for the sensor mount.
 [[SLDPRT]](https://github.com/SangwooJung98/Co-RaL-Dataset/blob/main/system/single_radar_imu_spot.SLDPRT)
 [[STL]](https://github.com/SangwooJung98/Co-RaL-Dataset/blob/main/system/single_radar_imu_spot.STL)
