@@ -3,7 +3,7 @@ We provide the CAD files for the sensor mount.
 [[SLDPRT]](https://github.com/SangwooJung98/Co-RaL-Dataset/blob/main/system/single_radar_imu_spot.SLDPRT)
 [[STL]](https://github.com/SangwooJung98/Co-RaL-Dataset/blob/main/system/single_radar_imu_spot.STL)
 
-![image](https://github.com/user-attachments/assets/dd093a50-37d4-4b56-af50-83fc75339483)
+![image](https://github.com/user-attachments/assets/596de208-47a4-4619-9f11-ced8055fd68e)
 
 # ROS1 Driver Links
 ### TI mmWave radar
