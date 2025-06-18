@@ -9,6 +9,9 @@ We provide the CAD files for the sensor mount.
 ### TI mmWave radar
 https://github.com/hojjunekim/ti_mmwave_rospkg
 - Fixed original driver's problem that it is not providing radial velocity on pointcloud (Previously, gathered 'point' topic that gives every information of each point)
+### BD SPOT Driver
+https://github.com/heuristicus/spot_ros
+- ROS1 driver (python based)
 
 # ROS2 Driver Links
 ### TI mmWave radar
