@@ -13,13 +13,13 @@ Our dataset includes sensor data of **chip radar, imu, velodyne, and kinematic d
 Each sequence is acquired with different environments to evaluate the algorithm performance generally. 
 The dataset is provided with ROS Bag file format. 
 
-**[[arXiv]](https://arxiv.org/abs/2407.05820) [[BibTex]](#bibtex)**
+**[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10801960)  [[arXiv]](https://arxiv.org/abs/2407.05820) [[BibTex]](#bibtex)**
 
 [<img src="https://github.com/SangwooJung98/Co-RaL-Dataset/assets/48044261/6b2f4c95-4b94-4378-9595-2959aec399d8" width="80%">](https://youtu.be/kHKn85_KKgk)
 
 
 ### Download
-**[Google Drive](https://drive.google.com/drive/folders/1Sa3D52G-bcQO7JdfdrSAYSNStKwa9spB?usp=sharing)**
+**[Google Drive](https://drive.google.com/drive/folders/1rYxsiGvdnTWiiosqVWTdQBKY_Z0cAtJI?usp=sharing)**
 
 ## Sensor Setup
 
@@ -58,13 +58,11 @@ This work was supported by the MOTIE (1415187329) and MSIT (No.2022-0-00480).
 
 ## BibTex
 ```
-@misc{jung2024coralcomplementaryradarlegodometry,
-      title={Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact}, 
-      author={Sangwoo Jung and Wooseong Yang and Ayoung Kim},
-      year={2024},
-      eprint={2407.05820},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2407.05820}, 
+@inproceedings{jung2024co,
+  title = {Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact},
+  author = {Jung, Sangwoo and Yang, Wooseong and Kim, Ayoung},
+  booktitle = {2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages = {13289-13296},
+  year = {2024},
 }
 ```
