@@ -4,7 +4,12 @@
 ### Authors
 **[Sangwoo Jung](https://sangwoojung98.github.io)**, **[Wooseong Yang](https://rpm.snu.ac.kr)** and **[Ayoung Kim](https://ayoungk.github.io)**<sup>*</sup>. 
 
-### Paper and Video
+## Note
+
++ Our work, ***Co-RaL*** is accepted for IROS 2024. 
++ An extended research, ***[GaRLILEO](https://garlileo.github.io/GaRLILEO/)*** is now released as an open-source. 
+
+## Paper and Video
 
 *Welcome to Co-RaL-Dataset!*
 
@@ -18,7 +23,7 @@ The dataset is provided with ROS Bag file format.
 [<img src="https://github.com/SangwooJung98/Co-RaL-Dataset/assets/48044261/6b2f4c95-4b94-4378-9595-2959aec399d8" width="80%">](https://youtu.be/kHKn85_KKgk)
 
 
-### Download
+## Download
 **[Google Drive](https://drive.google.com/drive/folders/1rYxsiGvdnTWiiosqVWTdQBKY_Z0cAtJI?usp=sharing)**
 
 ## Sensor Setup
@@ -37,7 +42,7 @@ Contact Sensor | Spot Contact Sensor | 4 boolean values (List) | 180Hz | /spot/s
 Time | - | ROS time | - | /clock
 
 ## Sensor Calibration
-TBA
+The extrinsic calibration of the sensor system is same with SNU system of ***[GaRLILEO](https://garlileo.github.io/GaRLILEO/)***, an extended research of radar-leg-Imu sensor fusion odometry. 
 
 ## Dataset List
 
