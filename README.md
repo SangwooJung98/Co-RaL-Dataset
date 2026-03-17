@@ -7,6 +7,7 @@
 ## Note
 
 + Our work, ***Co-RaL*** is accepted for IROS 2024. 
++ ***[Spot ego-velocity estimator](https://github.com/SangwooJung98/SPOT_ego_Velocity)*** is now released as an open-source. 
 + An extended research, ***[GaRLILEO](https://garlileo.github.io/GaRLILEO/)*** is now released as an open-source. 
 
 ## Paper and Video
